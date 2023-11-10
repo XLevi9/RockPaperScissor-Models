@@ -1,1 +1,1 @@
-# RockPaperScissor_Models
+# RockPaperScissor-Models
